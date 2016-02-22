@@ -26,7 +26,7 @@ class AwsomeProject extends Component {
                 </Text>
 
                 <Image source={require('./img/react_native.png')} style={{width:100,height:100}}>
-                    
+
                 </Image>
 
                 <TextInput style={styles.text_input}
